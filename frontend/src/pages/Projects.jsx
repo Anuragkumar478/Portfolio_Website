@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FiGithub, FiExternalLink, FiStar } from 'react-icons/fi';
 import { motion } from 'framer-motion';
 import roadeimage from '../image/roadeimage.png';
-import socialWeb from '../image/socialweb.png';
+import socialWeb from '../image/socialWeb.png';
 import dashboard from '../image/dashboard.png';
 
 const Projects = () => {
