@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FiGithub, FiExternalLink, FiStar } from 'react-icons/fi';
 import { motion } from 'framer-motion';
 import roadeimage from '../image/roadeimage.png';
-import socialWeb from '../image/socialWeb.png';
+// import socialWeb from '../image/socialWeb.png';
 import dashboard from '../image/dashboard.png';
 
 const Projects = () => {
@@ -27,7 +27,7 @@ const Projects = () => {
       title: "Social Media Web App",
       description: "A full-stack social media application where users can register, login, create posts, like, and comment. Built with secure authentication and dynamic UI updates.",
       category: "Full Stack",
-      imageUrl: socialWeb,
+      imageUrl: " ",
       skills: ["React", "Node.js", "Express.js", "MongoDB", "Bootstrap"],
       githubUrl: "https://github.com/Anuragkumar478/SocialApp",
       liveUrl: "https://social-app-gamma-seven.vercel.app/",
