@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { FiStar, FiCode, FiCpu, FiDatabase, FiLayers } from 'react-icons/fi';
-import react_Icon from  '../icon/react.png';
+import react_Icon from  '../icon/React.png';
 import js from '../icon/js.png';
 import node from '../icon/node.png';
 import mongodb from '../icon/mongoDb.png';
