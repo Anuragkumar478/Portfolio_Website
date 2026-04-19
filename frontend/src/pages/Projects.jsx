@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import roadeimage from '../image/roadeimage.png';
 import socialWeb from '../image/socialWeb.png';
 import dashboard from '../image/dashboard.png';
-
+import ngo from '../image/Ngo.png';
 const Projects = () => {
 
   const [activeFilter, setActiveFilter] = useState('All');
@@ -42,6 +42,17 @@ const Projects = () => {
       skills: ["React", "Node.js", "Express.js", "MongoDB", "Bootstrap"],
       githubUrl: "https://github.com/Anuragkumar478/Attendence",
       liveUrl: "https://automatted-attendance-frontend.onrender.com/",
+      featured: false
+    },
+    {
+      _id: 4,
+      title: "NGO Website",
+      description: "A full-stack application for managing NGO operations and donor engagement.",
+      category: "Full Stack",
+      imageUrl: ngo,
+      skills: ["React", "Node.js", "Express.js", "MongoDB", "Bootstrap"],
+      githubUrl: "https://github.com/Anuragkumar478/NGOCON",
+      liveUrl: "https://ngocon.vercel.app/",
       featured: false
     }
   

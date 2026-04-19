@@ -19,7 +19,7 @@ function App() {
         <section id="about"><About /></section>
         <section id="projects"><Projects /></section>
         <section id="skills"><Skills /></section>
-        {/* <section id="experience"><Experience /></section> */}
+        <section id="experience"><Experience /></section>
         <section id="contact"><ContactForm /></section>
       </div>
 
