@@ -27,7 +27,7 @@ const Projects = () => {
       title: "Social Media Web App",
       description: "A full-stack social media application where users can register, login, create posts, like, and comment. Built with secure authentication and dynamic UI updates.",
       category: "Full Stack",
-      imageUrl: "socialWeb ",
+      imageUrl: socialWeb ,
       skills: ["React", "Node.js", "Express.js", "MongoDB", "Bootstrap"],
       githubUrl: "https://github.com/Anuragkumar478/SocialApp",
       liveUrl: "https://social-app-gamma-seven.vercel.app/",
