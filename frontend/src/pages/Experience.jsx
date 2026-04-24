@@ -6,13 +6,13 @@ const timelineData = [
   {
     icon: <FaGraduationCap />,
     title: "10th Standard",
-    place: "Ghmar Inter College, Ghmar",
+    place: "Gahmar Inter College, Gahmar",
     year: "Completed",
   },
   {
     icon: <FaGraduationCap />,
     title: "12th Standard",
-    place: "Ghmar Inter College, Ghmar",
+    place: "Gahmar Inter College, Gahmar",
     year: "Completed",
   },
   {
